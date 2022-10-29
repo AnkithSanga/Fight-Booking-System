@@ -1,0 +1,41 @@
+a{
+	text-decoration: none;
+	background-color:lightgreen;
+	width: 15cm;
+	margin: 20px;
+	padding:10px;
+}
+div {
+ background-color: skyblue;
+ width: 400px;
+ top:0;
+ bottom: 0;
+ left: 100px;
+ right: 100px;
+}
+header{
+	background-color:burlywood;
+	font-size: 20px;
+	width: 10cm;
+	margin: 20px;
+	padding:1px;
+	text-align: center;
+	border-width: 1px;
+	border-color:red;
+	border-style:solid;
+	color: blue;
+	
+}
+marquee{
+	padding:1px;
+	color: brown;
+}
+a:hover{
+	background-color:antiquewhite;
+	width:inherit;
+	height: inherit;
+}
+body{
+
+	background-image: url("C:\xampp\htdocs\flight.jpg");
+}
