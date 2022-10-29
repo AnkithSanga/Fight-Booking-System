@@ -1,0 +1,30 @@
+.formdiv{
+    justify-content: center;
+    position: absolute;
+margin-top: 20px;
+margin-bottom: 20px;
+background-color:white ;
+ top:150px;
+ height: 550px;
+ width: 400px;
+ right: 60px;
+ border-color: 6px solid #000000;
+ border-radius: 10px;
+opacity:0.65;
+align-items: center;
+display: flex;
+
+}
+
+
+img{
+    height: 900px;
+    max-width:1600px;
+    z-index: 1;
+    display: flex;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+
